@@ -1,5 +1,6 @@
 # created by virtualenv automatically
 
+/.env
 /Lib
 /Scripts
 /etc

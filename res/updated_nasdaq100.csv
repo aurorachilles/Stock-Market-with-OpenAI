@@ -1,0 +1,102 @@
+,symbol,name,headQuarter,dateFirstAdded,cik,founded,sector
+0,AAPL,Apple Inc.,"Cupertino, CA",,320193,1976-04-01,Technology
+1,ABNB,Airbnb,"San Francisco, CA",,1559720,2008-08-01,Real Estate
+2,ADBE,Adobe Inc.,"San Jose, CA",,796343,1982-12-01,Technology
+3,ADI,Analog Devices,"Wilmington, MA",,6281,1965-01-01,Technology
+4,ADP,ADP,"Roseland, NJ",,8670,1949-01-01,Technology
+5,ADSK,Autodesk,"San Rafael, CA",,769397,1982-01-30,Technology
+6,AEP,American Electric Power,"Columbus, OH",,4904,1906-01-01,Utilities
+7,ALGN,Align Technology,"Tempe, AZ",,1097149,1997-01-01,Healthcare
+8,AMAT,Applied Materials,"Santa Clara, CA",,6951,1967-11-10,Technology
+9,AMD,Advanced Micro Devices Inc.,"Santa Clara, CA",,2488,1969-05-01,Technology
+10,AMGN,Amgen,"Thousand Oaks, CA",,318154,1980-04-08,Healthcare
+11,AMZN,Amazon,"Seattle, WA",,1018724,1994-07-05,Technology
+12,ANSS,Ansys,"Canonsburg, PA",,1013462,1970-01-01,Technology
+13,ASML,ASML Holding,"Veldhoven, ",,937966,1984-01-01,Technology
+14,ATVI,Activision Blizzard,"Santa Monica, CA",,718877,2008-07-10,Technology
+15,AVGO,Broadcom Inc.,"San Jose, CA",,1730168,1961-01-01,Technology
+16,AZN,AstraZeneca,"Cambridge, ",,901832,1999-04-06,Healthcare
+17,BIIB,Biogen,"Cambridge, MA",,875045,1978-01-01,Healthcare
+18,BKNG,Booking Holdings,"Norwalk, CT",,1075531,1996-01-01,Technology
+19,BKR,Baker Hughes,"Houston, TX",,1701605,1907-01-01,Energy
+20,CDNS,Cadence Design Systems,"San Jose, CA",,813672,1988-01-01,Technology
+21,CEG,Constellation Energy,"Baltimore, MD",,1868275,1999-01-01,Energy
+22,CHTR,Charter Communications,"Stamford, CT",,1091667,1993-01-01,Communication
+23,CMCSA,Comcast,"Philadelphia, PA",,1166691,1963-11-13,Communication
+24,COST,Costco,"Issaquah, WA",,909832,1983-09-15,Consumer
+25,CPRT,Copart,"Dallas, TX",,900075,1982-01-01,Industrial
+26,CRWD,CrowdStrike,"Austin, TX",,1535527,2011-01-01,Technology
+27,CSCO,Cisco,"San Jose, CA",,858877,1984-12-10,Technology
+28,CSGP,CoStar Group,"Washington, DC",,1057352,1987-01-01,Real Estate
+29,CSX,CSX Corporation,"Jacksonville, FL",,277948,1980-11-01,Industrial
+30,CTAS,Cintas,"Cincinnati, OH",,723254,1929-01-01,Industrial
+31,CTSH,Cognizant,"Teaneck, NJ",,1058290,1994-01-26,Technology
+32,DDOG,Datadog,"New York, NY",,1561550,2010-01-01,Technology
+33,DLTR,Dollar Tree,"Chesapeake, VA",,935703,2001-01-01,Consumer
+34,DXCM,DexCom,"San Diego, CA",,1093557,1999-01-01,Healthcare
+35,EA,Electronic Arts,"Redwood City, CA",,712515,1982-05-27,Technology
+36,EBAY,eBay,"San Jose, CA",,1065088,1995-09-03,Technology
+37,ENPH,Enphase Energy,"Fremont, CA",,1463101,2006-01-01,Energy
+38,EXC,Exelon,"Chicago, IL",,1109357,2000-10-20,Utilities
+39,FANG,Diamondback Energy,"Midland, TX",,1539838,2012-10-12,Energy
+40,FAST,Fastenal,"Winona, MN",,815556,1967-01-01,Industrial
+41,FTNT,Fortinet,"Sunnyvale, CA",,1262039,2000-01-01,Technology
+42,GEHC,GE HealthCare,"Chicago, IL",,1932393,1994-09-28,Healthcare
+43,GFS,GlobalFoundries,"Malta, NY",,1709048,2009-03-02,Technology
+44,GILD,Gilead Sciences,"Foster City, CA",,882095,1987-06-22,Healthcare
+45,GOOG,Alphabet Inc. (Class C),"Mountain View, CA",,1652044,2015-10-02,Technology
+46,GOOGL,Alphabet Inc. (Class A),"Mountain View, CA",,1652044,2015-10-02,Technology
+47,HON,Honeywell,"Charlotte, NC",,773840,1906-01-01,Industrial
+48,IDXX,Idexx Laboratories,"Westbrook, ME",,874716,1983-01-01,Healthcare
+49,ILMN,"Illumina, Inc.","San Diego, CA",,1110803,1998-01-01,Healthcare
+50,INTC,Intel,"Santa Clara, CA",,50863,1968-07-18,Technology
+51,INTU,Intuit,"Mountain View, CA",,896878,1983-01-01,Technology
+52,ISRG,Intuitive Surgical,"Sunnyvale, CA",,1035267,1995-01-01,Healthcare
+53,JD,JD.com,"Beijing, ",,1549802,1998-06-06,Technology
+54,KDP,Keurig Dr Pepper,"Burlington, MA",,1418135,1981-01-01,Consumer
+55,KHC,Kraft Heinz,"Pittsburgh, PA",,1637459,2015-07-02,Consumer
+56,KLAC,KLA Corporation,"Milpitas, CA",,319201,1997-01-01,Technology
+57,LCID,Lucid Motors,"Newark, CA",,1811210,2007-01-01,Technology
+58,LRCX,Lam Research,"Fremont, CA",,707549,1980-01-01,Technology
+59,LULU,Lululemon,"Vancouver, BC",,1397187,1998-01-01,Consumer
+60,MAR,Marriott International,"Bethesda, MD",,1048286,1927-03-05,Consumer
+61,MCHP,Microchip Technology,"Chandler, AZ",,827054,1989-01-01,Technology
+62,MDLZ,Mondelēz International,"Chicago, IL",,1103982,1923-12-10,Consumer
+63,MELI,MercadoLibre,"Montevideo, ",,1099590,1999-08-02,Technology
+64,META,Meta Platforms,"Menlo Park, CA",,1326801,2004-01-04,Technology
+65,MNST,Monster Beverage,"Corona, CA",,865752,1935-01-01,Consumer
+66,MRNA,Moderna,"Cambridge, MA",,1682852,2010-09-01,Healthcare
+67,MRVL,Marvell Technology,"Wilmington, DE",,1835632,1995-01-01,Technology
+68,MSFT,Microsoft,"Redmond, WA",,789019,1975-04-04,Technology
+69,MU,Micron Technology,"Boise, ID",,723125,1978-10-05,Technology
+70,NFLX,Netflix,"Los Gatos, CA",,1065280,1997-09-29,Communication
+71,NVDA,Nvidia,"Santa Clara, CA",,1045810,1993-04-05,Technology
+72,NXPI,NXP,"Eindhoven, ",,1413447,2006-01-01,Technology
+73,ODFL,Old Dominion Freight Line,"Thomasville, NC",,878927,1934-01-01,Industrial
+74,ON,Onsemi,"Phoenix, AZ",,1097864,1999-01-01,Technology
+75,ORLY,O'Reilly Automotive,"Springfield, MO",,898173,1957-12-02,Consumer
+76,PANW,Palo Alto Networks,"Santa Clara, CA",,1327567,2005-01-01,Technology
+77,PAYX,Paychex,"Rochester, NY",,723531,1971-01-01,Finance
+78,PCAR,Paccar,"Bellevue, WA",,75362,1905-01-01,Industrial
+79,PDD,PDD Holdings,"Shanghai, ",,1737806,2015-01-01,Real Estate
+80,PEP,PepsiCo,"Purchase, NY",,77476,1898-08-28,Consumer sector
+81,PYPL,PayPal,"San Jose, CA",,1633917,1998-12-01,Finance
+82,QCOM,Qualcomm,"San Diego, CA",,804328,1985-07-01,Technology
+83,REGN,Regeneron,"Tarrytown, NY",,872589,1988-01-01,Healthcare
+84,ROST,Ross Stores,"Dublin, CA",,745732,2050-01-19,Consumer
+85,SBUX,Starbucks,"Seattle, WA",,829224,1971-03-30,Consumer
+86,SGEN,Seagen,"Bothell, WA",,1060736,1997-01-01,Healthcare
+87,SIRI,Sirius XM,"New York, NY",,908937,2008-07-29,Communication
+88,SNPS,Synopsys,"Mountain View, CA",,883241,1986-01-01,Technology
+89,TEAM,Atlassian,"Sydney, NSW",,1650372,2002-01-01,Technology
+90,TMUS,T-Mobile US,"Bellevue, WA",,1283699,2001-09-02,Communication
+91,TSLA,"Tesla, Inc.","Austin, TX",,1318605,2003-07-01,Technology
+92,TXN,Texas Instruments,"Dallas, TX",,97476,1930-01-01,Technology
+93,VRSK,Verisk,"Jersey City, NJ",,1442145,1971-01-01,Finance
+94,VRTX,Vertex Pharmaceuticals,"Boston, MA",,875320,1989-01-01,Healthcare
+95,WBA,Walgreens Boots Alliance,"Deerfield, IL",,1618921,2014-12-31,Healthcare
+96,WBD,Warner Bros. Discovery,"New York, NY",,1437107,2022-04-08,Communication
+97,WDAY,"Workday, Inc.","Pleasanton, CA",,1327811,2005-03-01,Technology
+98,XEL,Xcel Energy,"Minneapolis, MN",,72903,1909-06-17,Utilities
+99,ZM,Zoom Video Communications,"San Jose, CA",,1585521,2011-04-21,Technology
+100,ZS,Zscaler,"San Jose, CA",,1713683,2007-01-01,Technology
