@@ -1,3 +1,8 @@
+## About
+
+A very basic project to tinker with the working of OpenAI API
+
+
 ## How to set up the project locally
 
 1. Pull the github repository locally
